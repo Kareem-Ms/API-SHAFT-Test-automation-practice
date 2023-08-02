@@ -1,0 +1,6 @@
+Headers:
+_______________
+
+Set-Cookie=token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMjgyYTFjYzAwMTMwNzYyYzAiLCJpYXQiOjE2OTA5NjUyMTh9.qBWdcREotLbh0VvtdhBaP78AJY16BzHowVPjIbnW5Sg; Max-Age=684; Path=/; Expires=Wed, 02 Aug 2023 08:45:02 GMT
+Content-Type=application/json
+

@@ -1,0 +1,30 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 8' test cases in the current suite                                        
+                                     Test Method: 'tests.AddUserTests.VerifyAddingUserWithUnregisteredEmail'                                     
+                                   Test Description: 'Valid registration with unregistered email and password'                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/AddUserTestData.json"". @02-08-2023 10:20:45.0564 AM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/AddUserTestData.json"". @02-08-2023 10:20:45.0564 AM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/AddUserTestData.json"". @02-08-2023 10:20:45.0603 AM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/AddUserTestData.json"". @02-08-2023 10:20:45.0604 AM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/AddUserTestData.json"". @02-08-2023 10:20:45.0649 AM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/AddUserTestData.json"". @02-08-2023 10:20:45.0650 AM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/AddUserTestData.json"". @02-08-2023 10:20:45.0676 AM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/AddUserTestData.json"". @02-08-2023 10:20:45.0676 AM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/AddUserTestData.json"". @02-08-2023 10:20:45.0695 AM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/AddUserTestData.json"". @02-08-2023 10:20:45.0695 AM
+[ReportManager] Response status code: "201", status line: "HTTP/1.1 201 Created" @02-08-2023 10:20:46.0506 AM
+[ReportManager] Assertion "ValidateComparativeRelation" PASSED. Expected "201" and Actual "201". Comparison Type "EQUALS". Validation Type "POSITIVE". @02-08-2023 10:20:46.0507 AM
+[ReportManager] Assertion Passed: Evaluating the actual response status code 201 against the expected one 201... @02-08-2023 10:20:46.0507 AM
+[ReportManager] Perform request "POST | Target Status Code: 201 | Service URL: https://thinking-tester-contact-list.herokuapp.com/users | Content Type: application/json | Response Time: 788ms". @02-08-2023 10:20:46.0524 AM
+[ReportManager] Successfully created attachment 'API Request - Specifications' @02-08-2023 10:20:46.0525 AM
+[ReportManager] Successfully created attachment 'API Request - JSON Body' @02-08-2023 10:20:46.0721 AM
+[ReportManager] Successfully created attachment 'API Response - JSON Body' @02-08-2023 10:20:46.0724 AM
+[ReportManager] Expected "johndoe_02082023102045526@example.com", and actual "johndoe_02082023102045526@example.com" @02-08-2023 10:20:46.0729 AM
+[ReportManager] Assertion "ValidateEquals" PASSED. Expected "johndoe_02082023102045526@example.com" and Actual "johndoe_02082023102045526@example.com". Comparison Type "EQUALS". Validation Type "POSITIVE". @02-08-2023 10:20:46.0729 AM
+[ReportManager] Assertion Passed: "johndoe_02082023102045526@example.com" is equal to "johndoe_02082023102045526@example.com". @02-08-2023 10:20:46.0730 AM
+[ReportManager] Expected "null", and actual "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMjgyYTFjYzAwMTMwNzYyYzAiLCJpYXQiOjE2OTA5NjUyMTh9.qBWdcREotLbh0VvtdhBaP78AJY16BzHowVPjIbnW5Sg" @02-08-2023 10:20:46.0730 AM
+[ReportManager] Assertion "ValidateEquals" PASSED. Expected "null" and Actual "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMjgyYTFjYzAwMTMwNzYyYzAiLCJpYXQiOjE2OTA5NjUyMTh9.qBWdcREotLbh0VvtdhBaP78AJY16BzHowVPjIbnW5Sg". Comparison Type "EQUALS". Validation Type "NEGATIVE". @02-08-2023 10:20:46.0731 AM
+[ReportManager] Assertion Passed: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMjgyYTFjYzAwMTMwNzYyYzAiLCJpYXQiOjE2OTA5NjUyMTh9.qBWdcREotLbh0VvtdhBaP78AJY16BzHowVPjIbnW5Sg" is not NULL. @02-08-2023 10:20:46.0732 AM

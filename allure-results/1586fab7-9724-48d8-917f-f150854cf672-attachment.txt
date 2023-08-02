@@ -1,0 +1,15 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '8 out of 8' test cases in the current suite                                        
+                                   Test Method: 'tests.UserProfileTests.verifyGettingUserProfileWithoutToken'                                   
+                                        Test Description: 'Invalid getting a non registered user profile'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[ReportManager] Response status code: "401", status line: "HTTP/1.1 401 Unauthorized" @02-08-2023 10:20:52.0845 AM
+[ReportManager] Assertion "ValidateComparativeRelation" PASSED. Expected "401" and Actual "401". Comparison Type "EQUALS". Validation Type "POSITIVE". @02-08-2023 10:20:52.0846 AM
+[ReportManager] Assertion Passed: Evaluating the actual response status code 401 against the expected one 401... @02-08-2023 10:20:52.0846 AM
+[ReportManager] Perform request "GET | Target Status Code: 401 | Service URL: https://thinking-tester-contact-list.herokuapp.com/users/me | Content Type: application/json | Response Time: 740ms". @02-08-2023 10:20:52.0857 AM
+[ReportManager] Successfully created attachment 'API Request - Specifications' @02-08-2023 10:20:52.0858 AM
+[ReportManager] Successfully created attachment 'API Response - JSON Body' @02-08-2023 10:20:52.0860 AM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/GetUserProfileTestData.json"". @02-08-2023 10:20:52.0861 AM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/GetUserProfileTestData.json"". @02-08-2023 10:20:52.0861 AM

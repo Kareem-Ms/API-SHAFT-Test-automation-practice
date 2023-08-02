@@ -1,0 +1,20 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '5 out of 8' test cases in the current suite                                        
+                                        Test Method: 'tests.UpdateUserTests.verifyUpdatingRegisteredUser'                                        
+                                              Test Description: 'Valid updating a registered user'                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/UpdateUserTestData.json"". @02-08-2023 10:20:49.0503 AM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/UpdateUserTestData.json"". @02-08-2023 10:20:49.0503 AM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/UpdateUserTestData.json"". @02-08-2023 10:20:49.0520 AM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/UpdateUserTestData.json"". @02-08-2023 10:20:49.0521 AM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/UpdateUserTestData.json"". @02-08-2023 10:20:49.0538 AM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/UpdateUserTestData.json"". @02-08-2023 10:20:49.0538 AM
+[ReportManager] Response status code: "200", status line: "HTTP/1.1 200 OK" @02-08-2023 10:20:50.0432 AM
+[ReportManager] Assertion "ValidateComparativeRelation" PASSED. Expected "200" and Actual "200". Comparison Type "EQUALS". Validation Type "POSITIVE". @02-08-2023 10:20:50.0433 AM
+[ReportManager] Assertion Passed: Evaluating the actual response status code 200 against the expected one 200... @02-08-2023 10:20:50.0433 AM
+[ReportManager] Perform request "PATCH | Target Status Code: 200 | Service URL: https://thinking-tester-contact-list.herokuapp.com/users/me | Content Type: application/json | Response Time: 867ms". @02-08-2023 10:20:50.0449 AM
+[ReportManager] Successfully created attachment 'API Request - Specifications' @02-08-2023 10:20:50.0451 AM
+[ReportManager] Successfully created attachment 'API Request - JSON Body' @02-08-2023 10:20:50.0452 AM
+[ReportManager] Successfully created attachment 'API Response - JSON Body' @02-08-2023 10:20:50.0454 AM

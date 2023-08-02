@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="ContactList tests">
+        <classes>
+            <class name="tests.AddUserTests">
+                <methods>
+                    <include name="VerifyAddingUserWithUnregisteredEmail"/>
+                    <include name="VerifyAddingUserWithRegisteredEmail"/>
+                </methods>
+            </class>
+            <class name="tests.LoginTests">
+                <methods>
+                    <include name="VerifyLoginWithCorrectEmailAndPw"/>
+                    <include name="VerifyLoginWithInCorrectEmailAndPw"/>
+                </methods>
+            </class>
+            <class name="tests.UpdateUserTests">
+                <methods>
+                    <include name="verifyUpdatingRegisteredUser"/>
+                    <include name="verifyUpdatingUnRegisteredUser"/>
+                </methods>
+            </class>
+            <class name="tests.UserProfileTests">
+                <methods>
+                    <include name="verifyGettingUserProfile"/>
+                    <include name="verifyGettingUserProfileWithoutToken"/>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+</suite>

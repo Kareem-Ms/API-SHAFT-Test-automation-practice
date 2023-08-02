@@ -1,0 +1,16 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 8' test cases in the current suite                                        
+                                      Test Method: 'tests.AddUserTests.VerifyAddingUserWithRegisteredEmail'                                      
+                              Test Description: 'Invalid registration with email that have been registered before'                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[ReportManager] Response status code: "400", status line: "HTTP/1.1 400 Bad Request" @02-08-2023 10:20:47.0615 AM
+[ReportManager] Assertion "ValidateComparativeRelation" PASSED. Expected "400" and Actual "400". Comparison Type "EQUALS". Validation Type "POSITIVE". @02-08-2023 10:20:47.0615 AM
+[ReportManager] Assertion Passed: Evaluating the actual response status code 400 against the expected one 400... @02-08-2023 10:20:47.0616 AM
+[ReportManager] Perform request "POST | Target Status Code: 400 | Service URL: https://thinking-tester-contact-list.herokuapp.com/users | Content Type: application/json | Response Time: 778ms". @02-08-2023 10:20:47.0628 AM
+[ReportManager] Successfully created attachment 'API Request - Specifications' @02-08-2023 10:20:47.0629 AM
+[ReportManager] Successfully created attachment 'API Request - JSON Body' @02-08-2023 10:20:47.0631 AM
+[ReportManager] Successfully created attachment 'API Response - JSON Body' @02-08-2023 10:20:47.0633 AM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/AddUserTestData.json"". @02-08-2023 10:20:47.0638 AM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/AddUserTestData.json"". @02-08-2023 10:20:47.0639 AM

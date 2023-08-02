@@ -1,0 +1,13 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '7 out of 8' test cases in the current suite                                        
+                                         Test Method: 'tests.UserProfileTests.verifyGettingUserProfile'                                         
+                                           Test Description: 'Valid getting a registered user profile'                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[ReportManager] Response status code: "200", status line: "HTTP/1.1 200 OK" @02-08-2023 10:20:52.0068 AM
+[ReportManager] Assertion "ValidateComparativeRelation" PASSED. Expected "200" and Actual "200". Comparison Type "EQUALS". Validation Type "POSITIVE". @02-08-2023 10:20:52.0069 AM
+[ReportManager] Assertion Passed: Evaluating the actual response status code 200 against the expected one 200... @02-08-2023 10:20:52.0069 AM
+[ReportManager] Perform request "GET | Target Status Code: 200 | Service URL: https://thinking-tester-contact-list.herokuapp.com/users/me | Content Type: application/json | Response Time: 732ms". @02-08-2023 10:20:52.0080 AM
+[ReportManager] Successfully created attachment 'API Request - Specifications' @02-08-2023 10:20:52.0081 AM
+[ReportManager] Successfully created attachment 'API Response - JSON Body' @02-08-2023 10:20:52.0083 AM

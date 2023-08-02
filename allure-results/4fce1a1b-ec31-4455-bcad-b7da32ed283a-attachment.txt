@@ -1,0 +1,732 @@
+[INFO ] 2023-08-02 10:20:34.329 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                                      Powered by SHAFT Engine v7.2.20230621                                                      
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-08-02 10:20:39.580 [main] ReportManager - Loaded OpenCV "opencv_java470".
+[INFO ] 2023-08-02 10:20:39.581 [main] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2023-08-02 10:20:39.678 [main] ReportManager - Initializing Extent Reporting Environment...
+[INFO ] 2023-08-02 10:20:40.133 [main] ReportManager - Initializing Summary Reporting Environment...
+[INFO ] 2023-08-02 10:20:40.316 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:40.317 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:40.319 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[ERROR] 2023-08-02 10:20:40.358 [main] AllureLifecycle - Could not start step: no test case running
+[ERROR] 2023-08-02 10:20:40.363 [main] AllureLifecycle - Could not add attachment: no test is running
+[INFO ] 2023-08-02 10:20:40.365 [main] ReportManager - Successfully created attachment 'Test Data - JSON'
+[ERROR] 2023-08-02 10:20:40.366 [main] AllureLifecycle - Could not update step: no step running
+[ERROR] 2023-08-02 10:20:40.366 [main] AllureLifecycle - Could not update step: no step running
+[ERROR] 2023-08-02 10:20:40.367 [main] AllureLifecycle - Could not stop step: no step running
+[INFO ] 2023-08-02 10:20:40.371 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:40.372 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:40.373 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[ERROR] 2023-08-02 10:20:40.374 [main] AllureLifecycle - Could not start step: no test case running
+[ERROR] 2023-08-02 10:20:40.374 [main] AllureLifecycle - Could not add attachment: no test is running
+[INFO ] 2023-08-02 10:20:40.377 [main] ReportManager - Successfully created attachment 'Test Data - JSON'
+[ERROR] 2023-08-02 10:20:40.377 [main] AllureLifecycle - Could not update step: no step running
+[ERROR] 2023-08-02 10:20:40.378 [main] AllureLifecycle - Could not update step: no step running
+[ERROR] 2023-08-02 10:20:40.378 [main] AllureLifecycle - Could not stop step: no step running
+[INFO ] 2023-08-02 10:20:40.383 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:40.384 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:40.385 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[ERROR] 2023-08-02 10:20:40.386 [main] AllureLifecycle - Could not start step: no test case running
+[ERROR] 2023-08-02 10:20:40.386 [main] AllureLifecycle - Could not add attachment: no test is running
+[INFO ] 2023-08-02 10:20:40.388 [main] ReportManager - Successfully created attachment 'Test Data - JSON'
+[ERROR] 2023-08-02 10:20:40.388 [main] AllureLifecycle - Could not update step: no step running
+[ERROR] 2023-08-02 10:20:40.388 [main] AllureLifecycle - Could not update step: no step running
+[ERROR] 2023-08-02 10:20:40.388 [main] AllureLifecycle - Could not stop step: no step running
+[INFO ] 2023-08-02 10:20:40.423 [main] Utils - [TestNG] Running:
+  C:\Users\usama\IdeaProjects\API_SHAFT_TestAutomation\testng.xml
+
+[INFO ] 2023-08-02 10:20:40.458 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-08-02 10:20:40.551 [main] ReportManager - Initializing Important Links...
+[INFO ] 2023-08-02 10:20:40.558 [main] ReportManager - Initializing Properties...
+[INFO ] 2023-08-02 10:20:40.639 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                              Starting execution of verify adding user with unregistered email configuration method                              
+                                            'tests.LoginTests.VerifyAddingUserWithUnregisteredEmail'                                            
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-08-02 10:20:40.641 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:40.642 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:42.348 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:42.349 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:42.369 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:42.370 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:42.390 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:42.391 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:42.411 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:42.412 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[DEBUG] 2023-08-02 10:20:43.564 [main] BasicClientConnectionManager - Get connection for route {s}->https://thinking-tester-contact-list.herokuapp.com:443
+[DEBUG] 2023-08-02 10:20:43.677 [main] DefaultClientConnectionOperator - Connecting to thinking-tester-contact-list.herokuapp.com:443
+[DEBUG] 2023-08-02 10:20:44.497 [main] RequestAddCookies - CookieSpec selected: ignoreCookies
+[DEBUG] 2023-08-02 10:20:44.499 [main] RequestAuthCache - Auth cache not set in the context
+[DEBUG] 2023-08-02 10:20:44.499 [main] RequestTargetAuthentication - Target auth state: UNCHALLENGED
+[DEBUG] 2023-08-02 10:20:44.499 [main] RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+[DEBUG] 2023-08-02 10:20:44.499 [main] DefaultClientConnection - Sending request: POST /users HTTP/1.1
+[DEBUG] 2023-08-02 10:20:44.499 [main] wire -  >> "POST /users HTTP/1.1[\r][\n]"
+[DEBUG] 2023-08-02 10:20:44.500 [main] wire -  >> "Accept: */*[\r][\n]"
+[DEBUG] 2023-08-02 10:20:44.500 [main] wire -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+[DEBUG] 2023-08-02 10:20:44.500 [main] wire -  >> "Content-Length: 110[\r][\n]"
+[DEBUG] 2023-08-02 10:20:44.500 [main] wire -  >> "Host: thinking-tester-contact-list.herokuapp.com[\r][\n]"
+[DEBUG] 2023-08-02 10:20:44.500 [main] wire -  >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG] 2023-08-02 10:20:44.500 [main] wire -  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/20)[\r][\n]"
+[DEBUG] 2023-08-02 10:20:44.500 [main] wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+[DEBUG] 2023-08-02 10:20:44.501 [main] wire -  >> "[\r][\n]"
+[DEBUG] 2023-08-02 10:20:44.501 [main] headers - >> POST /users HTTP/1.1
+[DEBUG] 2023-08-02 10:20:44.501 [main] headers - >> Accept: */*
+[DEBUG] 2023-08-02 10:20:44.501 [main] headers - >> Content-Type: application/json; charset=UTF-8
+[DEBUG] 2023-08-02 10:20:44.501 [main] headers - >> Content-Length: 110
+[DEBUG] 2023-08-02 10:20:44.501 [main] headers - >> Host: thinking-tester-contact-list.herokuapp.com
+[DEBUG] 2023-08-02 10:20:44.501 [main] headers - >> Connection: Keep-Alive
+[DEBUG] 2023-08-02 10:20:44.501 [main] headers - >> User-Agent: Apache-HttpClient/4.5.13 (Java/20)
+[DEBUG] 2023-08-02 10:20:44.501 [main] headers - >> Accept-Encoding: gzip,deflate
+[DEBUG] 2023-08-02 10:20:44.501 [main] wire -  >> "{"firstName":"John","lastName":"Doe","password":"password123","email":"johndoe_02082023102040367@example.com"}"
+[DEBUG] 2023-08-02 10:20:44.703 [main] wire -  << "HTTP/1.1 201 Created[\r][\n]"
+[DEBUG] 2023-08-02 10:20:44.706 [main] wire -  << "Server: Cowboy[\r][\n]"
+[DEBUG] 2023-08-02 10:20:44.706 [main] wire -  << "Connection: keep-alive[\r][\n]"
+[DEBUG] 2023-08-02 10:20:44.706 [main] wire -  << "X-Powered-By: Express[\r][\n]"
+[DEBUG] 2023-08-02 10:20:44.707 [main] wire -  << "Set-Cookie: token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMGM3OWIxYTAwMTNlMWY1MWUiLCJpYXQiOjE2OTA5NjUyMTZ9.FLjJorJ4SG80s4MsKJc9VDzcmio1W9RxhIFlSAnsyNs; Max-Age=684; Path=/; Expires=Wed, 02 Aug 2023 08:45:00 GMT[\r][\n]"
+[DEBUG] 2023-08-02 10:20:44.707 [main] wire -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+[DEBUG] 2023-08-02 10:20:44.707 [main] wire -  << "Content-Length: 295[\r][\n]"
+[DEBUG] 2023-08-02 10:20:44.707 [main] wire -  << "Etag: W/"127-T0LxwhSaW0np/SNwNA2pnHpnNSo"[\r][\n]"
+[DEBUG] 2023-08-02 10:20:44.707 [main] wire -  << "Date: Wed, 02 Aug 2023 08:33:36 GMT[\r][\n]"
+[DEBUG] 2023-08-02 10:20:44.708 [main] wire -  << "Via: 1.1 vegur[\r][\n]"
+[DEBUG] 2023-08-02 10:20:44.708 [main] wire -  << "[\r][\n]"
+[DEBUG] 2023-08-02 10:20:44.709 [main] DefaultClientConnection - Receiving response: HTTP/1.1 201 Created
+[DEBUG] 2023-08-02 10:20:44.709 [main] headers - << HTTP/1.1 201 Created
+[DEBUG] 2023-08-02 10:20:44.710 [main] headers - << Server: Cowboy
+[DEBUG] 2023-08-02 10:20:44.710 [main] headers - << Connection: keep-alive
+[DEBUG] 2023-08-02 10:20:44.710 [main] headers - << X-Powered-By: Express
+[DEBUG] 2023-08-02 10:20:44.710 [main] headers - << Set-Cookie: token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMGM3OWIxYTAwMTNlMWY1MWUiLCJpYXQiOjE2OTA5NjUyMTZ9.FLjJorJ4SG80s4MsKJc9VDzcmio1W9RxhIFlSAnsyNs; Max-Age=684; Path=/; Expires=Wed, 02 Aug 2023 08:45:00 GMT
+[DEBUG] 2023-08-02 10:20:44.710 [main] headers - << Content-Type: application/json; charset=utf-8
+[DEBUG] 2023-08-02 10:20:44.710 [main] headers - << Content-Length: 295
+[DEBUG] 2023-08-02 10:20:44.710 [main] headers - << Etag: W/"127-T0LxwhSaW0np/SNwNA2pnHpnNSo"
+[DEBUG] 2023-08-02 10:20:44.710 [main] headers - << Date: Wed, 02 Aug 2023 08:33:36 GMT
+[DEBUG] 2023-08-02 10:20:44.710 [main] headers - << Via: 1.1 vegur
+[DEBUG] 2023-08-02 10:20:44.720 [main] RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+[DEBUG] 2023-08-02 10:20:44.721 [main] RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[INFO ] 2023-08-02 10:20:44.766 [main] ReportManager - Response status code: "201", status line: "HTTP/1.1 201 Created"
+[INFO ] 2023-08-02 10:20:44.785 [main] ReportManager - Assertion "ValidateComparativeRelation" PASSED. Expected "201" and Actual "201". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[DEBUG] 2023-08-02 10:20:44.814 [main] wire -  << "{"user":{"_id":"64ca14e0c79b1a0013e1f51e","firstName":"John","lastName":"Doe","email":"johndoe_02082023102040367@example.com","__v":1},"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMGM3OWIxYTAwMTNlMWY1MWUiLCJpYXQiOjE2OTA5NjUyMTZ9.FLjJorJ4SG80s4MsKJc9VDzcmio1W9RxhIFlSAnsyNs"}"
+[DEBUG] 2023-08-02 10:20:44.815 [main] BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@7545cb17
+[DEBUG] 2023-08-02 10:20:44.815 [main] BasicClientConnectionManager - Connection can be kept alive indefinitely
+[INFO ] 2023-08-02 10:20:44.889 [main] ReportManager - Successfully created attachment 'API Request - Specifications'
+[INFO ] 2023-08-02 10:20:44.892 [main] ReportManager - Successfully created attachment 'API Request - JSON Body'
+[INFO ] 2023-08-02 10:20:44.894 [main] ReportManager - Successfully created attachment 'API Response - JSON Body'
+[INFO ] 2023-08-02 10:20:45.494 [main] ReportManager - Expected "johndoe_02082023102040367@example.com", and actual "johndoe_02082023102040367@example.com"
+[INFO ] 2023-08-02 10:20:45.497 [main] ReportManager - Assertion "ValidateEquals" PASSED. Expected "johndoe_02082023102040367@example.com" and Actual "johndoe_02082023102040367@example.com". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2023-08-02 10:20:45.498 [main] ReportManager - Expected "null", and actual "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMGM3OWIxYTAwMTNlMWY1MWUiLCJpYXQiOjE2OTA5NjUyMTZ9.FLjJorJ4SG80s4MsKJc9VDzcmio1W9RxhIFlSAnsyNs"
+[INFO ] 2023-08-02 10:20:45.499 [main] ReportManager - Assertion "ValidateEquals" PASSED. Expected "null" and Actual "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMGM3OWIxYTAwMTNlMWY1MWUiLCJpYXQiOjE2OTA5NjUyMTZ9.FLjJorJ4SG80s4MsKJc9VDzcmio1W9RxhIFlSAnsyNs". Comparison Type "EQUALS". Validation Type "NEGATIVE".
+[INFO ] 2023-08-02 10:20:45.519 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                                Starting execution of set up configuration method                                                
+                                                           'tests.AddUserTests.setUp'                                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-08-02 10:20:45.521 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:45.522 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:45.523 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:45.526 [main] ReportManager - Successfully created attachment 'Test Data - JSON'
+[INFO ] 2023-08-02 10:20:45.555 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 8' test cases in the current suite                                        
+                                     Test Method: 'tests.AddUserTests.VerifyAddingUserWithUnregisteredEmail'                                     
+                                   Test Description: 'Valid registration with unregistered email and password'                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-08-02 10:20:45.564 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:45.564 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:45.603 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:45.604 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:45.649 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:45.650 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:45.676 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:45.676 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:45.695 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:45.696 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[DEBUG] 2023-08-02 10:20:45.722 [main] BasicClientConnectionManager - Get connection for route {s}->https://thinking-tester-contact-list.herokuapp.com:443
+[DEBUG] 2023-08-02 10:20:45.722 [main] DefaultClientConnectionOperator - Connecting to thinking-tester-contact-list.herokuapp.com:443
+[DEBUG] 2023-08-02 10:20:46.309 [main] RequestAddCookies - CookieSpec selected: ignoreCookies
+[DEBUG] 2023-08-02 10:20:46.309 [main] RequestAuthCache - Auth cache not set in the context
+[DEBUG] 2023-08-02 10:20:46.309 [main] RequestTargetAuthentication - Target auth state: UNCHALLENGED
+[DEBUG] 2023-08-02 10:20:46.309 [main] RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+[DEBUG] 2023-08-02 10:20:46.309 [main] DefaultClientConnection - Sending request: POST /users HTTP/1.1
+[DEBUG] 2023-08-02 10:20:46.310 [main] wire -  >> "POST /users HTTP/1.1[\r][\n]"
+[DEBUG] 2023-08-02 10:20:46.310 [main] wire -  >> "Accept: */*[\r][\n]"
+[DEBUG] 2023-08-02 10:20:46.310 [main] wire -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+[DEBUG] 2023-08-02 10:20:46.310 [main] wire -  >> "Content-Length: 110[\r][\n]"
+[DEBUG] 2023-08-02 10:20:46.310 [main] wire -  >> "Host: thinking-tester-contact-list.herokuapp.com[\r][\n]"
+[DEBUG] 2023-08-02 10:20:46.311 [main] wire -  >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG] 2023-08-02 10:20:46.311 [main] wire -  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/20)[\r][\n]"
+[DEBUG] 2023-08-02 10:20:46.311 [main] wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+[DEBUG] 2023-08-02 10:20:46.311 [main] wire -  >> "[\r][\n]"
+[DEBUG] 2023-08-02 10:20:46.311 [main] headers - >> POST /users HTTP/1.1
+[DEBUG] 2023-08-02 10:20:46.311 [main] headers - >> Accept: */*
+[DEBUG] 2023-08-02 10:20:46.312 [main] headers - >> Content-Type: application/json; charset=UTF-8
+[DEBUG] 2023-08-02 10:20:46.312 [main] headers - >> Content-Length: 110
+[DEBUG] 2023-08-02 10:20:46.312 [main] headers - >> Host: thinking-tester-contact-list.herokuapp.com
+[DEBUG] 2023-08-02 10:20:46.312 [main] headers - >> Connection: Keep-Alive
+[DEBUG] 2023-08-02 10:20:46.312 [main] headers - >> User-Agent: Apache-HttpClient/4.5.13 (Java/20)
+[DEBUG] 2023-08-02 10:20:46.312 [main] headers - >> Accept-Encoding: gzip,deflate
+[DEBUG] 2023-08-02 10:20:46.312 [main] wire -  >> "{"firstName":"John","lastName":"Doe","password":"password123","email":"johndoe_02082023102045526@example.com"}"
+[DEBUG] 2023-08-02 10:20:46.502 [main] wire -  << "HTTP/1.1 201 Created[\r][\n]"
+[DEBUG] 2023-08-02 10:20:46.502 [main] wire -  << "Server: Cowboy[\r][\n]"
+[DEBUG] 2023-08-02 10:20:46.502 [main] wire -  << "Connection: keep-alive[\r][\n]"
+[DEBUG] 2023-08-02 10:20:46.502 [main] wire -  << "X-Powered-By: Express[\r][\n]"
+[DEBUG] 2023-08-02 10:20:46.502 [main] wire -  << "Set-Cookie: token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMjgyYTFjYzAwMTMwNzYyYzAiLCJpYXQiOjE2OTA5NjUyMTh9.qBWdcREotLbh0VvtdhBaP78AJY16BzHowVPjIbnW5Sg; Max-Age=684; Path=/; Expires=Wed, 02 Aug 2023 08:45:02 GMT[\r][\n]"
+[DEBUG] 2023-08-02 10:20:46.503 [main] wire -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+[DEBUG] 2023-08-02 10:20:46.503 [main] wire -  << "Content-Length: 295[\r][\n]"
+[DEBUG] 2023-08-02 10:20:46.503 [main] wire -  << "Etag: W/"127-kTWT2Fej6p2Ok/+ea7NRo6nnm2k"[\r][\n]"
+[DEBUG] 2023-08-02 10:20:46.503 [main] wire -  << "Date: Wed, 02 Aug 2023 08:33:38 GMT[\r][\n]"
+[DEBUG] 2023-08-02 10:20:46.503 [main] wire -  << "Via: 1.1 vegur[\r][\n]"
+[DEBUG] 2023-08-02 10:20:46.503 [main] wire -  << "[\r][\n]"
+[DEBUG] 2023-08-02 10:20:46.503 [main] DefaultClientConnection - Receiving response: HTTP/1.1 201 Created
+[DEBUG] 2023-08-02 10:20:46.504 [main] headers - << HTTP/1.1 201 Created
+[DEBUG] 2023-08-02 10:20:46.504 [main] headers - << Server: Cowboy
+[DEBUG] 2023-08-02 10:20:46.504 [main] headers - << Connection: keep-alive
+[DEBUG] 2023-08-02 10:20:46.504 [main] headers - << X-Powered-By: Express
+[DEBUG] 2023-08-02 10:20:46.504 [main] headers - << Set-Cookie: token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMjgyYTFjYzAwMTMwNzYyYzAiLCJpYXQiOjE2OTA5NjUyMTh9.qBWdcREotLbh0VvtdhBaP78AJY16BzHowVPjIbnW5Sg; Max-Age=684; Path=/; Expires=Wed, 02 Aug 2023 08:45:02 GMT
+[DEBUG] 2023-08-02 10:20:46.504 [main] headers - << Content-Type: application/json; charset=utf-8
+[DEBUG] 2023-08-02 10:20:46.504 [main] headers - << Content-Length: 295
+[DEBUG] 2023-08-02 10:20:46.504 [main] headers - << Etag: W/"127-kTWT2Fej6p2Ok/+ea7NRo6nnm2k"
+[DEBUG] 2023-08-02 10:20:46.504 [main] headers - << Date: Wed, 02 Aug 2023 08:33:38 GMT
+[DEBUG] 2023-08-02 10:20:46.504 [main] headers - << Via: 1.1 vegur
+[DEBUG] 2023-08-02 10:20:46.505 [main] RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+[DEBUG] 2023-08-02 10:20:46.505 [main] RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[INFO ] 2023-08-02 10:20:46.506 [main] ReportManager - Response status code: "201", status line: "HTTP/1.1 201 Created"
+[INFO ] 2023-08-02 10:20:46.507 [main] ReportManager - Assertion "ValidateComparativeRelation" PASSED. Expected "201" and Actual "201". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[DEBUG] 2023-08-02 10:20:46.511 [main] wire -  << "{"user":{"_id":"64ca14e282a1cc00130762c0","firstName":"John","lastName":"Doe","email":"johndoe_02082023102045526@example.com","__v":1},"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMjgyYTFjYzAwMTMwNzYyYzAiLCJpYXQiOjE2OTA5NjUyMTh9.qBWdcREotLbh0VvtdhBaP78AJY16BzHowVPjIbnW5Sg"}"
+[DEBUG] 2023-08-02 10:20:46.512 [main] BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@12136fc6
+[DEBUG] 2023-08-02 10:20:46.512 [main] BasicClientConnectionManager - Connection can be kept alive indefinitely
+[INFO ] 2023-08-02 10:20:46.525 [main] ReportManager - Successfully created attachment 'API Request - Specifications'
+[DEBUG] 2023-08-02 10:20:46.551 [main] cache - Couldn't find template in cache for "codeblock.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-08-02 10:20:46.552 [main] cache - TemplateLoader.findTemplateSource("codeblock_en_US.ftl"): Not found
+[DEBUG] 2023-08-02 10:20:46.553 [main] cache - TemplateLoader.findTemplateSource("codeblock_en.ftl"): Not found
+[DEBUG] 2023-08-02 10:20:46.554 [main] cache - TemplateLoader.findTemplateSource("codeblock.ftl"): Found
+[DEBUG] 2023-08-02 10:20:46.554 [main] cache - Loading template for "codeblock.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/usama/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/markup/codeblock.ftl"
+[DEBUG] 2023-08-02 10:20:46.692 [main] cache - Couldn't find template in cache for "codeblock.json.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-08-02 10:20:46.692 [main] cache - TemplateLoader.findTemplateSource("codeblock.json_en_US.ftl"): Not found
+[DEBUG] 2023-08-02 10:20:46.692 [main] cache - TemplateLoader.findTemplateSource("codeblock.json_en.ftl"): Not found
+[DEBUG] 2023-08-02 10:20:46.693 [main] cache - TemplateLoader.findTemplateSource("codeblock.json.ftl"): Found
+[DEBUG] 2023-08-02 10:20:46.693 [main] cache - Loading template for "codeblock.json.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/usama/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/markup/codeblock.json.ftl"
+[INFO ] 2023-08-02 10:20:46.721 [main] ReportManager - Successfully created attachment 'API Request - JSON Body'
+[INFO ] 2023-08-02 10:20:46.724 [main] ReportManager - Successfully created attachment 'API Response - JSON Body'
+[INFO ] 2023-08-02 10:20:46.729 [main] ReportManager - Expected "johndoe_02082023102045526@example.com", and actual "johndoe_02082023102045526@example.com"
+[INFO ] 2023-08-02 10:20:46.729 [main] ReportManager - Assertion "ValidateEquals" PASSED. Expected "johndoe_02082023102045526@example.com" and Actual "johndoe_02082023102045526@example.com". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2023-08-02 10:20:46.730 [main] ReportManager - Expected "null", and actual "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMjgyYTFjYzAwMTMwNzYyYzAiLCJpYXQiOjE2OTA5NjUyMTh9.qBWdcREotLbh0VvtdhBaP78AJY16BzHowVPjIbnW5Sg"
+[INFO ] 2023-08-02 10:20:46.731 [main] ReportManager - Assertion "ValidateEquals" PASSED. Expected "null" and Actual "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMjgyYTFjYzAwMTMwNzYyYzAiLCJpYXQiOjE2OTA5NjUyMTh9.qBWdcREotLbh0VvtdhBaP78AJY16BzHowVPjIbnW5Sg". Comparison Type "EQUALS". Validation Type "NEGATIVE".
+[INFO ] 2023-08-02 10:20:46.745 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: VerifyAddingUserWithUnregisteredEmail'
+[INFO ] 2023-08-02 10:20:46.823 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 8' test cases in the current suite                                        
+                                      Test Method: 'tests.AddUserTests.VerifyAddingUserWithRegisteredEmail'                                      
+                              Test Description: 'Invalid registration with email that have been registered before'                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[DEBUG] 2023-08-02 10:20:46.843 [main] BasicClientConnectionManager - Get connection for route {s}->https://thinking-tester-contact-list.herokuapp.com:443
+[DEBUG] 2023-08-02 10:20:46.843 [main] DefaultClientConnectionOperator - Connecting to thinking-tester-contact-list.herokuapp.com:443
+[DEBUG] 2023-08-02 10:20:47.426 [main] RequestAddCookies - CookieSpec selected: ignoreCookies
+[DEBUG] 2023-08-02 10:20:47.426 [main] RequestAuthCache - Auth cache not set in the context
+[DEBUG] 2023-08-02 10:20:47.426 [main] RequestTargetAuthentication - Target auth state: UNCHALLENGED
+[DEBUG] 2023-08-02 10:20:47.426 [main] RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+[DEBUG] 2023-08-02 10:20:47.427 [main] DefaultClientConnection - Sending request: POST /users HTTP/1.1
+[DEBUG] 2023-08-02 10:20:47.427 [main] wire -  >> "POST /users HTTP/1.1[\r][\n]"
+[DEBUG] 2023-08-02 10:20:47.427 [main] wire -  >> "Cookie: token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMjgyYTFjYzAwMTMwNzYyYzAiLCJpYXQiOjE2OTA5NjUyMTh9.qBWdcREotLbh0VvtdhBaP78AJY16BzHowVPjIbnW5Sg[\r][\n]"
+[DEBUG] 2023-08-02 10:20:47.427 [main] wire -  >> "Accept: */*[\r][\n]"
+[DEBUG] 2023-08-02 10:20:47.427 [main] wire -  >> "Set-Cookie: token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMjgyYTFjYzAwMTMwNzYyYzAiLCJpYXQiOjE2OTA5NjUyMTh9.qBWdcREotLbh0VvtdhBaP78AJY16BzHowVPjIbnW5Sg; Max-Age=684; Path=/; Expires=Wed, 02 Aug 2023 08:45:02 GMT[\r][\n]"
+[DEBUG] 2023-08-02 10:20:47.427 [main] wire -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+[DEBUG] 2023-08-02 10:20:47.427 [main] wire -  >> "Content-Length: 110[\r][\n]"
+[DEBUG] 2023-08-02 10:20:47.427 [main] wire -  >> "Host: thinking-tester-contact-list.herokuapp.com[\r][\n]"
+[DEBUG] 2023-08-02 10:20:47.427 [main] wire -  >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG] 2023-08-02 10:20:47.427 [main] wire -  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/20)[\r][\n]"
+[DEBUG] 2023-08-02 10:20:47.427 [main] wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+[DEBUG] 2023-08-02 10:20:47.427 [main] wire -  >> "[\r][\n]"
+[DEBUG] 2023-08-02 10:20:47.427 [main] headers - >> POST /users HTTP/1.1
+[DEBUG] 2023-08-02 10:20:47.428 [main] headers - >> Cookie: token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMjgyYTFjYzAwMTMwNzYyYzAiLCJpYXQiOjE2OTA5NjUyMTh9.qBWdcREotLbh0VvtdhBaP78AJY16BzHowVPjIbnW5Sg
+[DEBUG] 2023-08-02 10:20:47.428 [main] headers - >> Accept: */*
+[DEBUG] 2023-08-02 10:20:47.428 [main] headers - >> Set-Cookie: token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMjgyYTFjYzAwMTMwNzYyYzAiLCJpYXQiOjE2OTA5NjUyMTh9.qBWdcREotLbh0VvtdhBaP78AJY16BzHowVPjIbnW5Sg; Max-Age=684; Path=/; Expires=Wed, 02 Aug 2023 08:45:02 GMT
+[DEBUG] 2023-08-02 10:20:47.428 [main] headers - >> Content-Type: application/json; charset=UTF-8
+[DEBUG] 2023-08-02 10:20:47.428 [main] headers - >> Content-Length: 110
+[DEBUG] 2023-08-02 10:20:47.428 [main] headers - >> Host: thinking-tester-contact-list.herokuapp.com
+[DEBUG] 2023-08-02 10:20:47.428 [main] headers - >> Connection: Keep-Alive
+[DEBUG] 2023-08-02 10:20:47.428 [main] headers - >> User-Agent: Apache-HttpClient/4.5.13 (Java/20)
+[DEBUG] 2023-08-02 10:20:47.428 [main] headers - >> Accept-Encoding: gzip,deflate
+[DEBUG] 2023-08-02 10:20:47.428 [main] wire -  >> "{"firstName":"John","lastName":"Doe","password":"password123","email":"johndoe_02082023102045526@example.com"}"
+[DEBUG] 2023-08-02 10:20:47.610 [main] wire -  << "HTTP/1.1 400 Bad Request[\r][\n]"
+[DEBUG] 2023-08-02 10:20:47.611 [main] wire -  << "Server: Cowboy[\r][\n]"
+[DEBUG] 2023-08-02 10:20:47.611 [main] wire -  << "Connection: keep-alive[\r][\n]"
+[DEBUG] 2023-08-02 10:20:47.611 [main] wire -  << "X-Powered-By: Express[\r][\n]"
+[DEBUG] 2023-08-02 10:20:47.611 [main] wire -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+[DEBUG] 2023-08-02 10:20:47.611 [main] wire -  << "Content-Length: 45[\r][\n]"
+[DEBUG] 2023-08-02 10:20:47.611 [main] wire -  << "Etag: W/"2d-UStF8qUL2UQr7lNfRS7v2APIKHk"[\r][\n]"
+[DEBUG] 2023-08-02 10:20:47.611 [main] wire -  << "Date: Wed, 02 Aug 2023 08:33:39 GMT[\r][\n]"
+[DEBUG] 2023-08-02 10:20:47.612 [main] wire -  << "Via: 1.1 vegur[\r][\n]"
+[DEBUG] 2023-08-02 10:20:47.612 [main] wire -  << "[\r][\n]"
+[DEBUG] 2023-08-02 10:20:47.612 [main] DefaultClientConnection - Receiving response: HTTP/1.1 400 Bad Request
+[DEBUG] 2023-08-02 10:20:47.612 [main] headers - << HTTP/1.1 400 Bad Request
+[DEBUG] 2023-08-02 10:20:47.612 [main] headers - << Server: Cowboy
+[DEBUG] 2023-08-02 10:20:47.612 [main] headers - << Connection: keep-alive
+[DEBUG] 2023-08-02 10:20:47.612 [main] headers - << X-Powered-By: Express
+[DEBUG] 2023-08-02 10:20:47.612 [main] headers - << Content-Type: application/json; charset=utf-8
+[DEBUG] 2023-08-02 10:20:47.612 [main] headers - << Content-Length: 45
+[DEBUG] 2023-08-02 10:20:47.612 [main] headers - << Etag: W/"2d-UStF8qUL2UQr7lNfRS7v2APIKHk"
+[DEBUG] 2023-08-02 10:20:47.612 [main] headers - << Date: Wed, 02 Aug 2023 08:33:39 GMT
+[DEBUG] 2023-08-02 10:20:47.613 [main] headers - << Via: 1.1 vegur
+[DEBUG] 2023-08-02 10:20:47.613 [main] RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+[DEBUG] 2023-08-02 10:20:47.613 [main] RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[INFO ] 2023-08-02 10:20:47.615 [main] ReportManager - Response status code: "400", status line: "HTTP/1.1 400 Bad Request"
+[INFO ] 2023-08-02 10:20:47.615 [main] ReportManager - Assertion "ValidateComparativeRelation" PASSED. Expected "400" and Actual "400". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[DEBUG] 2023-08-02 10:20:47.616 [main] wire -  << "{"message":"Email address is already in use"}"
+[DEBUG] 2023-08-02 10:20:47.616 [main] BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@18505320
+[DEBUG] 2023-08-02 10:20:47.616 [main] BasicClientConnectionManager - Connection can be kept alive indefinitely
+[INFO ] 2023-08-02 10:20:47.629 [main] ReportManager - Successfully created attachment 'API Request - Specifications'
+[INFO ] 2023-08-02 10:20:47.631 [main] ReportManager - Successfully created attachment 'API Request - JSON Body'
+[INFO ] 2023-08-02 10:20:47.633 [main] ReportManager - Successfully created attachment 'API Response - JSON Body'
+[INFO ] 2023-08-02 10:20:47.639 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:47.639 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/AddUserTestData.json"".
+[INFO ] 2023-08-02 10:20:47.718 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: VerifyAddingUserWithRegisteredEmail'
+[INFO ] 2023-08-02 10:20:47.722 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                                Starting execution of set up configuration method                                                
+                                                            'tests.LoginTests.setUp'                                                            
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-08-02 10:20:47.723 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "LoginTestData.json"".
+[INFO ] 2023-08-02 10:20:47.724 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/LoginTestData.json"".
+[INFO ] 2023-08-02 10:20:47.724 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/LoginTestData.json"".
+[INFO ] 2023-08-02 10:20:47.726 [main] ReportManager - Successfully created attachment 'Test Data - JSON'
+[INFO ] 2023-08-02 10:20:47.733 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '3 out of 8' test cases in the current suite                                        
+                                        Test Method: 'tests.LoginTests.VerifyLoginWithCorrectEmailAndPw'                                        
+                                         Test Description: 'Valid login with correct email and password'                                         
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[DEBUG] 2023-08-02 10:20:47.742 [main] BasicClientConnectionManager - Get connection for route {s}->https://thinking-tester-contact-list.herokuapp.com:443
+[DEBUG] 2023-08-02 10:20:47.742 [main] DefaultClientConnectionOperator - Connecting to thinking-tester-contact-list.herokuapp.com:443
+[DEBUG] 2023-08-02 10:20:48.406 [main] RequestAddCookies - CookieSpec selected: ignoreCookies
+[DEBUG] 2023-08-02 10:20:48.407 [main] RequestAuthCache - Auth cache not set in the context
+[DEBUG] 2023-08-02 10:20:48.407 [main] RequestTargetAuthentication - Target auth state: UNCHALLENGED
+[DEBUG] 2023-08-02 10:20:48.407 [main] RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+[DEBUG] 2023-08-02 10:20:48.407 [main] DefaultClientConnection - Sending request: POST /users/login HTTP/1.1
+[DEBUG] 2023-08-02 10:20:48.407 [main] wire -  >> "POST /users/login HTTP/1.1[\r][\n]"
+[DEBUG] 2023-08-02 10:20:48.407 [main] wire -  >> "Accept: */*[\r][\n]"
+[DEBUG] 2023-08-02 10:20:48.407 [main] wire -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+[DEBUG] 2023-08-02 10:20:48.407 [main] wire -  >> "Content-Length: 74[\r][\n]"
+[DEBUG] 2023-08-02 10:20:48.408 [main] wire -  >> "Host: thinking-tester-contact-list.herokuapp.com[\r][\n]"
+[DEBUG] 2023-08-02 10:20:48.408 [main] wire -  >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG] 2023-08-02 10:20:48.408 [main] wire -  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/20)[\r][\n]"
+[DEBUG] 2023-08-02 10:20:48.408 [main] wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+[DEBUG] 2023-08-02 10:20:48.408 [main] wire -  >> "[\r][\n]"
+[DEBUG] 2023-08-02 10:20:48.408 [main] headers - >> POST /users/login HTTP/1.1
+[DEBUG] 2023-08-02 10:20:48.408 [main] headers - >> Accept: */*
+[DEBUG] 2023-08-02 10:20:48.408 [main] headers - >> Content-Type: application/json; charset=UTF-8
+[DEBUG] 2023-08-02 10:20:48.408 [main] headers - >> Content-Length: 74
+[DEBUG] 2023-08-02 10:20:48.409 [main] headers - >> Host: thinking-tester-contact-list.herokuapp.com
+[DEBUG] 2023-08-02 10:20:48.409 [main] headers - >> Connection: Keep-Alive
+[DEBUG] 2023-08-02 10:20:48.409 [main] headers - >> User-Agent: Apache-HttpClient/4.5.13 (Java/20)
+[DEBUG] 2023-08-02 10:20:48.409 [main] headers - >> Accept-Encoding: gzip,deflate
+[DEBUG] 2023-08-02 10:20:48.409 [main] wire -  >> "{"password":"password123","email":"johndoe_02082023102040367@example.com"}"
+[DEBUG] 2023-08-02 10:20:48.623 [main] wire -  << "HTTP/1.1 200 OK[\r][\n]"
+[DEBUG] 2023-08-02 10:20:48.624 [main] wire -  << "Server: Cowboy[\r][\n]"
+[DEBUG] 2023-08-02 10:20:48.624 [main] wire -  << "Connection: keep-alive[\r][\n]"
+[DEBUG] 2023-08-02 10:20:48.624 [main] wire -  << "X-Powered-By: Express[\r][\n]"
+[DEBUG] 2023-08-02 10:20:48.624 [main] wire -  << "Set-Cookie: token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMGM3OWIxYTAwMTNlMWY1MWUiLCJpYXQiOjE2OTA5NjUyMjB9.nNoN6FE0MOjp_vVIfN55G_Utxt6CRlKZUuHuf_SO-M4; Max-Age=36000; Path=/; Expires=Wed, 02 Aug 2023 18:33:40 GMT[\r][\n]"
+[DEBUG] 2023-08-02 10:20:48.624 [main] wire -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+[DEBUG] 2023-08-02 10:20:48.624 [main] wire -  << "Content-Length: 295[\r][\n]"
+[DEBUG] 2023-08-02 10:20:48.625 [main] wire -  << "Etag: W/"127-P2kBezbcTNmtVKfqHu4sVpB3cBg"[\r][\n]"
+[DEBUG] 2023-08-02 10:20:48.625 [main] wire -  << "Date: Wed, 02 Aug 2023 08:33:40 GMT[\r][\n]"
+[DEBUG] 2023-08-02 10:20:48.625 [main] wire -  << "Via: 1.1 vegur[\r][\n]"
+[DEBUG] 2023-08-02 10:20:48.625 [main] wire -  << "[\r][\n]"
+[DEBUG] 2023-08-02 10:20:48.625 [main] DefaultClientConnection - Receiving response: HTTP/1.1 200 OK
+[DEBUG] 2023-08-02 10:20:48.625 [main] headers - << HTTP/1.1 200 OK
+[DEBUG] 2023-08-02 10:20:48.625 [main] headers - << Server: Cowboy
+[DEBUG] 2023-08-02 10:20:48.625 [main] headers - << Connection: keep-alive
+[DEBUG] 2023-08-02 10:20:48.625 [main] headers - << X-Powered-By: Express
+[DEBUG] 2023-08-02 10:20:48.625 [main] headers - << Set-Cookie: token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMGM3OWIxYTAwMTNlMWY1MWUiLCJpYXQiOjE2OTA5NjUyMjB9.nNoN6FE0MOjp_vVIfN55G_Utxt6CRlKZUuHuf_SO-M4; Max-Age=36000; Path=/; Expires=Wed, 02 Aug 2023 18:33:40 GMT
+[DEBUG] 2023-08-02 10:20:48.625 [main] headers - << Content-Type: application/json; charset=utf-8
+[DEBUG] 2023-08-02 10:20:48.625 [main] headers - << Content-Length: 295
+[DEBUG] 2023-08-02 10:20:48.625 [main] headers - << Etag: W/"127-P2kBezbcTNmtVKfqHu4sVpB3cBg"
+[DEBUG] 2023-08-02 10:20:48.626 [main] headers - << Date: Wed, 02 Aug 2023 08:33:40 GMT
+[DEBUG] 2023-08-02 10:20:48.626 [main] headers - << Via: 1.1 vegur
+[DEBUG] 2023-08-02 10:20:48.626 [main] RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+[DEBUG] 2023-08-02 10:20:48.626 [main] RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[INFO ] 2023-08-02 10:20:48.628 [main] ReportManager - Response status code: "200", status line: "HTTP/1.1 200 OK"
+[INFO ] 2023-08-02 10:20:48.628 [main] ReportManager - Assertion "ValidateComparativeRelation" PASSED. Expected "200" and Actual "200". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[DEBUG] 2023-08-02 10:20:48.629 [main] wire -  << "{"user":{"_id":"64ca14e0c79b1a0013e1f51e","firstName":"John","lastName":"Doe","email":"johndoe_02082023102040367@example.com","__v":2},"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMGM3OWIxYTAwMTNlMWY1MWUiLCJpYXQiOjE2OTA5NjUyMjB9.nNoN6FE0MOjp_vVIfN55G_Utxt6CRlKZUuHuf_SO-M4"}"
+[DEBUG] 2023-08-02 10:20:48.629 [main] BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@6099193b
+[DEBUG] 2023-08-02 10:20:48.629 [main] BasicClientConnectionManager - Connection can be kept alive indefinitely
+[INFO ] 2023-08-02 10:20:48.642 [main] ReportManager - Successfully created attachment 'API Request - Specifications'
+[INFO ] 2023-08-02 10:20:48.645 [main] ReportManager - Successfully created attachment 'API Request - JSON Body'
+[INFO ] 2023-08-02 10:20:48.647 [main] ReportManager - Successfully created attachment 'API Response - JSON Body'
+[INFO ] 2023-08-02 10:20:48.649 [main] ReportManager - Expected "johndoe_02082023102040367@example.com", and actual "johndoe_02082023102040367@example.com"
+[INFO ] 2023-08-02 10:20:48.650 [main] ReportManager - Assertion "ValidateEquals" PASSED. Expected "johndoe_02082023102040367@example.com" and Actual "johndoe_02082023102040367@example.com". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2023-08-02 10:20:48.650 [main] ReportManager - Expected "null", and actual "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMGM3OWIxYTAwMTNlMWY1MWUiLCJpYXQiOjE2OTA5NjUyMjB9.nNoN6FE0MOjp_vVIfN55G_Utxt6CRlKZUuHuf_SO-M4"
+[INFO ] 2023-08-02 10:20:48.651 [main] ReportManager - Assertion "ValidateEquals" PASSED. Expected "null" and Actual "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMGM3OWIxYTAwMTNlMWY1MWUiLCJpYXQiOjE2OTA5NjUyMjB9.nNoN6FE0MOjp_vVIfN55G_Utxt6CRlKZUuHuf_SO-M4". Comparison Type "EQUALS". Validation Type "NEGATIVE".
+[INFO ] 2023-08-02 10:20:48.653 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: VerifyLoginWithCorrectEmailAndPw'
+[INFO ] 2023-08-02 10:20:48.660 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '4 out of 8' test cases in the current suite                                        
+                                       Test Method: 'tests.LoginTests.VerifyLoginWithInCorrectEmailAndPw'                                       
+                                       Test Description: 'Invalid login with incorrect email and password'                                       
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-08-02 10:20:48.662 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/LoginTestData.json"".
+[INFO ] 2023-08-02 10:20:48.662 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/LoginTestData.json"".
+[INFO ] 2023-08-02 10:20:48.682 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/LoginTestData.json"".
+[INFO ] 2023-08-02 10:20:48.683 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/LoginTestData.json"".
+[DEBUG] 2023-08-02 10:20:48.708 [main] BasicClientConnectionManager - Get connection for route {s}->https://thinking-tester-contact-list.herokuapp.com:443
+[DEBUG] 2023-08-02 10:20:48.708 [main] DefaultClientConnectionOperator - Connecting to thinking-tester-contact-list.herokuapp.com:443
+[DEBUG] 2023-08-02 10:20:49.307 [main] RequestAddCookies - CookieSpec selected: ignoreCookies
+[DEBUG] 2023-08-02 10:20:49.307 [main] RequestAuthCache - Auth cache not set in the context
+[DEBUG] 2023-08-02 10:20:49.307 [main] RequestTargetAuthentication - Target auth state: UNCHALLENGED
+[DEBUG] 2023-08-02 10:20:49.307 [main] RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+[DEBUG] 2023-08-02 10:20:49.308 [main] DefaultClientConnection - Sending request: POST /users/login HTTP/1.1
+[DEBUG] 2023-08-02 10:20:49.308 [main] wire -  >> "POST /users/login HTTP/1.1[\r][\n]"
+[DEBUG] 2023-08-02 10:20:49.308 [main] wire -  >> "Cookie: token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMGM3OWIxYTAwMTNlMWY1MWUiLCJpYXQiOjE2OTA5NjUyMjB9.nNoN6FE0MOjp_vVIfN55G_Utxt6CRlKZUuHuf_SO-M4[\r][\n]"
+[DEBUG] 2023-08-02 10:20:49.308 [main] wire -  >> "Accept: */*[\r][\n]"
+[DEBUG] 2023-08-02 10:20:49.308 [main] wire -  >> "Set-Cookie: token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMGM3OWIxYTAwMTNlMWY1MWUiLCJpYXQiOjE2OTA5NjUyMjB9.nNoN6FE0MOjp_vVIfN55G_Utxt6CRlKZUuHuf_SO-M4; Max-Age=36000; Path=/; Expires=Wed, 02 Aug 2023 18:33:40 GMT[\r][\n]"
+[DEBUG] 2023-08-02 10:20:49.308 [main] wire -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+[DEBUG] 2023-08-02 10:20:49.308 [main] wire -  >> "Content-Length: 56[\r][\n]"
+[DEBUG] 2023-08-02 10:20:49.309 [main] wire -  >> "Host: thinking-tester-contact-list.herokuapp.com[\r][\n]"
+[DEBUG] 2023-08-02 10:20:49.309 [main] wire -  >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG] 2023-08-02 10:20:49.309 [main] wire -  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/20)[\r][\n]"
+[DEBUG] 2023-08-02 10:20:49.309 [main] wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+[DEBUG] 2023-08-02 10:20:49.309 [main] wire -  >> "[\r][\n]"
+[DEBUG] 2023-08-02 10:20:49.309 [main] headers - >> POST /users/login HTTP/1.1
+[DEBUG] 2023-08-02 10:20:49.309 [main] headers - >> Cookie: token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMGM3OWIxYTAwMTNlMWY1MWUiLCJpYXQiOjE2OTA5NjUyMjB9.nNoN6FE0MOjp_vVIfN55G_Utxt6CRlKZUuHuf_SO-M4
+[DEBUG] 2023-08-02 10:20:49.309 [main] headers - >> Accept: */*
+[DEBUG] 2023-08-02 10:20:49.309 [main] headers - >> Set-Cookie: token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMGM3OWIxYTAwMTNlMWY1MWUiLCJpYXQiOjE2OTA5NjUyMjB9.nNoN6FE0MOjp_vVIfN55G_Utxt6CRlKZUuHuf_SO-M4; Max-Age=36000; Path=/; Expires=Wed, 02 Aug 2023 18:33:40 GMT
+[DEBUG] 2023-08-02 10:20:49.310 [main] headers - >> Content-Type: application/json; charset=UTF-8
+[DEBUG] 2023-08-02 10:20:49.310 [main] headers - >> Content-Length: 56
+[DEBUG] 2023-08-02 10:20:49.310 [main] headers - >> Host: thinking-tester-contact-list.herokuapp.com
+[DEBUG] 2023-08-02 10:20:49.310 [main] headers - >> Connection: Keep-Alive
+[DEBUG] 2023-08-02 10:20:49.310 [main] headers - >> User-Agent: Apache-HttpClient/4.5.13 (Java/20)
+[DEBUG] 2023-08-02 10:20:49.310 [main] headers - >> Accept-Encoding: gzip,deflate
+[DEBUG] 2023-08-02 10:20:49.310 [main] wire -  >> "{"password":"password123","email":"moet11220@gmail.com"}"
+[DEBUG] 2023-08-02 10:20:49.469 [main] wire -  << "HTTP/1.1 401 Unauthorized[\r][\n]"
+[DEBUG] 2023-08-02 10:20:49.469 [main] wire -  << "Server: Cowboy[\r][\n]"
+[DEBUG] 2023-08-02 10:20:49.469 [main] wire -  << "Connection: keep-alive[\r][\n]"
+[DEBUG] 2023-08-02 10:20:49.469 [main] wire -  << "X-Powered-By: Express[\r][\n]"
+[DEBUG] 2023-08-02 10:20:49.469 [main] wire -  << "Date: Wed, 02 Aug 2023 08:33:41 GMT[\r][\n]"
+[DEBUG] 2023-08-02 10:20:49.469 [main] wire -  << "Content-Length: 0[\r][\n]"
+[DEBUG] 2023-08-02 10:20:49.469 [main] wire -  << "Via: 1.1 vegur[\r][\n]"
+[DEBUG] 2023-08-02 10:20:49.470 [main] wire -  << "[\r][\n]"
+[DEBUG] 2023-08-02 10:20:49.470 [main] DefaultClientConnection - Receiving response: HTTP/1.1 401 Unauthorized
+[DEBUG] 2023-08-02 10:20:49.470 [main] headers - << HTTP/1.1 401 Unauthorized
+[DEBUG] 2023-08-02 10:20:49.470 [main] headers - << Server: Cowboy
+[DEBUG] 2023-08-02 10:20:49.470 [main] headers - << Connection: keep-alive
+[DEBUG] 2023-08-02 10:20:49.470 [main] headers - << X-Powered-By: Express
+[DEBUG] 2023-08-02 10:20:49.470 [main] headers - << Date: Wed, 02 Aug 2023 08:33:41 GMT
+[DEBUG] 2023-08-02 10:20:49.470 [main] headers - << Content-Length: 0
+[DEBUG] 2023-08-02 10:20:49.470 [main] headers - << Via: 1.1 vegur
+[INFO ] 2023-08-02 10:20:49.472 [main] ReportManager - Response status code: "401", status line: "HTTP/1.1 401 Unauthorized"
+[INFO ] 2023-08-02 10:20:49.474 [main] ReportManager - Assertion "ValidateComparativeRelation" PASSED. Expected "401" and Actual "401". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[INFO ] 2023-08-02 10:20:49.481 [main] ReportManager - Successfully created attachment 'API Request - Specifications'
+[INFO ] 2023-08-02 10:20:49.483 [main] ReportManager - Successfully created attachment 'API Request - JSON Body'
+[INFO ] 2023-08-02 10:20:49.484 [main] ReportManager - Successfully created attachment 'API Response - JSON Body'
+[INFO ] 2023-08-02 10:20:49.486 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: VerifyLoginWithInCorrectEmailAndPw'
+[INFO ] 2023-08-02 10:20:49.489 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                                Starting execution of set up configuration method                                                
+                                                          'tests.UpdateUserTests.setUp'                                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-08-02 10:20:49.492 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "UpdateUserTestData.json"".
+[INFO ] 2023-08-02 10:20:49.492 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/UpdateUserTestData.json"".
+[INFO ] 2023-08-02 10:20:49.493 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/UpdateUserTestData.json"".
+[INFO ] 2023-08-02 10:20:49.495 [main] ReportManager - Successfully created attachment 'Test Data - JSON'
+[INFO ] 2023-08-02 10:20:49.502 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '5 out of 8' test cases in the current suite                                        
+                                        Test Method: 'tests.UpdateUserTests.verifyUpdatingRegisteredUser'                                        
+                                              Test Description: 'Valid updating a registered user'                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-08-02 10:20:49.503 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/UpdateUserTestData.json"".
+[INFO ] 2023-08-02 10:20:49.503 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/UpdateUserTestData.json"".
+[INFO ] 2023-08-02 10:20:49.520 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/UpdateUserTestData.json"".
+[INFO ] 2023-08-02 10:20:49.521 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/UpdateUserTestData.json"".
+[INFO ] 2023-08-02 10:20:49.538 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/UpdateUserTestData.json"".
+[INFO ] 2023-08-02 10:20:49.538 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/UpdateUserTestData.json"".
+[DEBUG] 2023-08-02 10:20:49.574 [Finalizer] DefaultClientConnection - Connection 0.0.0.0:61449<->3.210.192.5:443 closed
+[DEBUG] 2023-08-02 10:20:49.575 [Finalizer] DefaultClientConnection - Connection 0.0.0.0:61448<->3.210.192.5:443 closed
+[DEBUG] 2023-08-02 10:20:49.575 [Finalizer] DefaultClientConnection - Connection 0.0.0.0:61451<->3.210.192.5:443 closed
+[DEBUG] 2023-08-02 10:20:49.590 [main] BasicClientConnectionManager - Get connection for route {s}->https://thinking-tester-contact-list.herokuapp.com:443
+[DEBUG] 2023-08-02 10:20:49.590 [main] DefaultClientConnectionOperator - Connecting to thinking-tester-contact-list.herokuapp.com:443
+[DEBUG] 2023-08-02 10:20:49.715 [Finalizer] DefaultClientConnection - Connection 0.0.0.0:61447<->3.210.192.5:443 closed
+[DEBUG] 2023-08-02 10:20:50.225 [main] RequestAddCookies - CookieSpec selected: ignoreCookies
+[DEBUG] 2023-08-02 10:20:50.226 [main] RequestAuthCache - Auth cache not set in the context
+[DEBUG] 2023-08-02 10:20:50.226 [main] RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+[DEBUG] 2023-08-02 10:20:50.226 [main] DefaultClientConnection - Sending request: PATCH /users/me HTTP/1.1
+[DEBUG] 2023-08-02 10:20:50.226 [main] wire -  >> "PATCH /users/me HTTP/1.1[\r][\n]"
+[DEBUG] 2023-08-02 10:20:50.226 [main] wire -  >> "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMGM3OWIxYTAwMTNlMWY1MWUiLCJpYXQiOjE2OTA5NjUyMTZ9.FLjJorJ4SG80s4MsKJc9VDzcmio1W9RxhIFlSAnsyNs[\r][\n]"
+[DEBUG] 2023-08-02 10:20:50.226 [main] wire -  >> "Accept: */*[\r][\n]"
+[DEBUG] 2023-08-02 10:20:50.227 [main] wire -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+[DEBUG] 2023-08-02 10:20:50.227 [main] wire -  >> "Content-Length: 110[\r][\n]"
+[DEBUG] 2023-08-02 10:20:50.227 [main] wire -  >> "Host: thinking-tester-contact-list.herokuapp.com[\r][\n]"
+[DEBUG] 2023-08-02 10:20:50.227 [main] wire -  >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG] 2023-08-02 10:20:50.227 [main] wire -  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/20)[\r][\n]"
+[DEBUG] 2023-08-02 10:20:50.227 [main] wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+[DEBUG] 2023-08-02 10:20:50.227 [main] wire -  >> "[\r][\n]"
+[DEBUG] 2023-08-02 10:20:50.227 [main] headers - >> PATCH /users/me HTTP/1.1
+[DEBUG] 2023-08-02 10:20:50.227 [main] headers - >> Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMGM3OWIxYTAwMTNlMWY1MWUiLCJpYXQiOjE2OTA5NjUyMTZ9.FLjJorJ4SG80s4MsKJc9VDzcmio1W9RxhIFlSAnsyNs
+[DEBUG] 2023-08-02 10:20:50.227 [main] headers - >> Accept: */*
+[DEBUG] 2023-08-02 10:20:50.227 [main] headers - >> Content-Type: application/json; charset=UTF-8
+[DEBUG] 2023-08-02 10:20:50.227 [main] headers - >> Content-Length: 110
+[DEBUG] 2023-08-02 10:20:50.227 [main] headers - >> Host: thinking-tester-contact-list.herokuapp.com
+[DEBUG] 2023-08-02 10:20:50.227 [main] headers - >> Connection: Keep-Alive
+[DEBUG] 2023-08-02 10:20:50.227 [main] headers - >> User-Agent: Apache-HttpClient/4.5.13 (Java/20)
+[DEBUG] 2023-08-02 10:20:50.227 [main] headers - >> Accept-Encoding: gzip,deflate
+[DEBUG] 2023-08-02 10:20:50.228 [main] wire -  >> "{"firstName":"John","lastName":"Doe","password":"password123","email":"johndoe_02082023102040367@example.com"}"
+[DEBUG] 2023-08-02 10:20:50.428 [main] wire -  << "HTTP/1.1 200 OK[\r][\n]"
+[DEBUG] 2023-08-02 10:20:50.428 [main] wire -  << "Server: Cowboy[\r][\n]"
+[DEBUG] 2023-08-02 10:20:50.428 [main] wire -  << "Connection: keep-alive[\r][\n]"
+[DEBUG] 2023-08-02 10:20:50.428 [main] wire -  << "X-Powered-By: Express[\r][\n]"
+[DEBUG] 2023-08-02 10:20:50.428 [main] wire -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+[DEBUG] 2023-08-02 10:20:50.428 [main] wire -  << "Content-Length: 126[\r][\n]"
+[DEBUG] 2023-08-02 10:20:50.428 [main] wire -  << "Etag: W/"7e-aYtSDjGp07nmUAAAPpG9tb0ZvsY"[\r][\n]"
+[DEBUG] 2023-08-02 10:20:50.428 [main] wire -  << "Date: Wed, 02 Aug 2023 08:33:42 GMT[\r][\n]"
+[DEBUG] 2023-08-02 10:20:50.428 [main] wire -  << "Via: 1.1 vegur[\r][\n]"
+[DEBUG] 2023-08-02 10:20:50.428 [main] wire -  << "[\r][\n]"
+[DEBUG] 2023-08-02 10:20:50.429 [main] DefaultClientConnection - Receiving response: HTTP/1.1 200 OK
+[DEBUG] 2023-08-02 10:20:50.429 [main] headers - << HTTP/1.1 200 OK
+[DEBUG] 2023-08-02 10:20:50.429 [main] headers - << Server: Cowboy
+[DEBUG] 2023-08-02 10:20:50.429 [main] headers - << Connection: keep-alive
+[DEBUG] 2023-08-02 10:20:50.429 [main] headers - << X-Powered-By: Express
+[DEBUG] 2023-08-02 10:20:50.429 [main] headers - << Content-Type: application/json; charset=utf-8
+[DEBUG] 2023-08-02 10:20:50.429 [main] headers - << Content-Length: 126
+[DEBUG] 2023-08-02 10:20:50.429 [main] headers - << Etag: W/"7e-aYtSDjGp07nmUAAAPpG9tb0ZvsY"
+[DEBUG] 2023-08-02 10:20:50.429 [main] headers - << Date: Wed, 02 Aug 2023 08:33:42 GMT
+[DEBUG] 2023-08-02 10:20:50.429 [main] headers - << Via: 1.1 vegur
+[DEBUG] 2023-08-02 10:20:50.430 [main] RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+[DEBUG] 2023-08-02 10:20:50.430 [main] RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[INFO ] 2023-08-02 10:20:50.432 [main] ReportManager - Response status code: "200", status line: "HTTP/1.1 200 OK"
+[INFO ] 2023-08-02 10:20:50.433 [main] ReportManager - Assertion "ValidateComparativeRelation" PASSED. Expected "200" and Actual "200". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[DEBUG] 2023-08-02 10:20:50.434 [main] wire -  << "{"_id":"64ca14e0c79b1a0013e1f51e","firstName":"John","lastName":"Doe","email":"johndoe_02082023102040367@example.com","__v":2}"
+[DEBUG] 2023-08-02 10:20:50.434 [main] BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@3e99738e
+[DEBUG] 2023-08-02 10:20:50.434 [main] BasicClientConnectionManager - Connection can be kept alive indefinitely
+[INFO ] 2023-08-02 10:20:50.451 [main] ReportManager - Successfully created attachment 'API Request - Specifications'
+[INFO ] 2023-08-02 10:20:50.452 [main] ReportManager - Successfully created attachment 'API Request - JSON Body'
+[INFO ] 2023-08-02 10:20:50.454 [main] ReportManager - Successfully created attachment 'API Response - JSON Body'
+[INFO ] 2023-08-02 10:20:50.471 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: verifyUpdatingRegisteredUser'
+[INFO ] 2023-08-02 10:20:50.475 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '6 out of 8' test cases in the current suite                                        
+                                       Test Method: 'tests.UpdateUserTests.verifyUpdatingUnRegisteredUser'                                       
+                                             Test Description: 'Invalid updating unregistered user'                                             
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-08-02 10:20:50.476 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/UpdateUserTestData.json"".
+[INFO ] 2023-08-02 10:20:50.477 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/UpdateUserTestData.json"".
+[INFO ] 2023-08-02 10:20:50.492 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/UpdateUserTestData.json"".
+[INFO ] 2023-08-02 10:20:50.493 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/UpdateUserTestData.json"".
+[INFO ] 2023-08-02 10:20:50.508 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/UpdateUserTestData.json"".
+[INFO ] 2023-08-02 10:20:50.508 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/UpdateUserTestData.json"".
+[INFO ] 2023-08-02 10:20:50.522 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/UpdateUserTestData.json"".
+[INFO ] 2023-08-02 10:20:50.522 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/UpdateUserTestData.json"".
+[DEBUG] 2023-08-02 10:20:50.547 [main] BasicClientConnectionManager - Get connection for route {s}->https://thinking-tester-contact-list.herokuapp.com:443
+[DEBUG] 2023-08-02 10:20:50.547 [main] DefaultClientConnectionOperator - Connecting to thinking-tester-contact-list.herokuapp.com:443
+[DEBUG] 2023-08-02 10:20:51.119 [main] RequestAddCookies - CookieSpec selected: ignoreCookies
+[DEBUG] 2023-08-02 10:20:51.119 [main] RequestAuthCache - Auth cache not set in the context
+[DEBUG] 2023-08-02 10:20:51.119 [main] RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+[DEBUG] 2023-08-02 10:20:51.120 [main] DefaultClientConnection - Sending request: PATCH /users/me HTTP/1.1
+[DEBUG] 2023-08-02 10:20:51.120 [main] wire -  >> "PATCH /users/me HTTP/1.1[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.120 [main] wire -  >> "Authorization: Bearer null[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.120 [main] wire -  >> "Accept: */*[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.120 [main] wire -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.120 [main] wire -  >> "Content-Length: 62[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.120 [main] wire -  >> "Host: thinking-tester-contact-list.herokuapp.com[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.120 [main] wire -  >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.120 [main] wire -  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/20)[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.120 [main] wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.121 [main] wire -  >> "[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.121 [main] headers - >> PATCH /users/me HTTP/1.1
+[DEBUG] 2023-08-02 10:20:51.121 [main] headers - >> Authorization: Bearer null
+[DEBUG] 2023-08-02 10:20:51.121 [main] headers - >> Accept: */*
+[DEBUG] 2023-08-02 10:20:51.121 [main] headers - >> Content-Type: application/json; charset=UTF-8
+[DEBUG] 2023-08-02 10:20:51.121 [main] headers - >> Content-Length: 62
+[DEBUG] 2023-08-02 10:20:51.121 [main] headers - >> Host: thinking-tester-contact-list.herokuapp.com
+[DEBUG] 2023-08-02 10:20:51.121 [main] headers - >> Connection: Keep-Alive
+[DEBUG] 2023-08-02 10:20:51.121 [main] headers - >> User-Agent: Apache-HttpClient/4.5.13 (Java/20)
+[DEBUG] 2023-08-02 10:20:51.121 [main] headers - >> Accept-Encoding: gzip,deflate
+[DEBUG] 2023-08-02 10:20:51.121 [main] wire -  >> "{"firstName":"John","lastName":"Doe","password":"password123"}"
+[DEBUG] 2023-08-02 10:20:51.269 [main] wire -  << "HTTP/1.1 401 Unauthorized[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.269 [main] wire -  << "Server: Cowboy[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.271 [main] wire -  << "Connection: keep-alive[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.271 [main] wire -  << "X-Powered-By: Express[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.271 [main] wire -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.271 [main] wire -  << "Content-Length: 32[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.271 [main] wire -  << "Etag: W/"20-l84Ae8oPqxLFOfh6GyOldXOyOfM"[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.271 [main] wire -  << "Date: Wed, 02 Aug 2023 08:33:43 GMT[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.271 [main] wire -  << "Via: 1.1 vegur[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.271 [main] wire -  << "[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.271 [main] DefaultClientConnection - Receiving response: HTTP/1.1 401 Unauthorized
+[DEBUG] 2023-08-02 10:20:51.271 [main] headers - << HTTP/1.1 401 Unauthorized
+[DEBUG] 2023-08-02 10:20:51.271 [main] headers - << Server: Cowboy
+[DEBUG] 2023-08-02 10:20:51.271 [main] headers - << Connection: keep-alive
+[DEBUG] 2023-08-02 10:20:51.272 [main] headers - << X-Powered-By: Express
+[DEBUG] 2023-08-02 10:20:51.272 [main] headers - << Content-Type: application/json; charset=utf-8
+[DEBUG] 2023-08-02 10:20:51.272 [main] headers - << Content-Length: 32
+[DEBUG] 2023-08-02 10:20:51.272 [main] headers - << Etag: W/"20-l84Ae8oPqxLFOfh6GyOldXOyOfM"
+[DEBUG] 2023-08-02 10:20:51.272 [main] headers - << Date: Wed, 02 Aug 2023 08:33:43 GMT
+[DEBUG] 2023-08-02 10:20:51.272 [main] headers - << Via: 1.1 vegur
+[DEBUG] 2023-08-02 10:20:51.272 [main] RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+[DEBUG] 2023-08-02 10:20:51.272 [main] RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[INFO ] 2023-08-02 10:20:51.273 [main] ReportManager - Response status code: "401", status line: "HTTP/1.1 401 Unauthorized"
+[INFO ] 2023-08-02 10:20:51.274 [main] ReportManager - Assertion "ValidateComparativeRelation" PASSED. Expected "401" and Actual "401". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[DEBUG] 2023-08-02 10:20:51.275 [main] wire -  << "{"error":"Please authenticate."}"
+[DEBUG] 2023-08-02 10:20:51.275 [main] BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@3664d285
+[DEBUG] 2023-08-02 10:20:51.275 [main] BasicClientConnectionManager - Connection can be kept alive indefinitely
+[INFO ] 2023-08-02 10:20:51.288 [main] ReportManager - Successfully created attachment 'API Request - Specifications'
+[INFO ] 2023-08-02 10:20:51.290 [main] ReportManager - Successfully created attachment 'API Request - JSON Body'
+[INFO ] 2023-08-02 10:20:51.291 [main] ReportManager - Successfully created attachment 'API Response - JSON Body'
+[INFO ] 2023-08-02 10:20:51.292 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/UpdateUserTestData.json"".
+[INFO ] 2023-08-02 10:20:51.292 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/UpdateUserTestData.json"".
+[INFO ] 2023-08-02 10:20:51.320 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: verifyUpdatingUnRegisteredUser'
+[INFO ] 2023-08-02 10:20:51.323 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                                Starting execution of set up configuration method                                                
+                                                         'tests.UserProfileTests.setUp'                                                         
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-08-02 10:20:51.324 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "GetUserProfileTestData.json"".
+[INFO ] 2023-08-02 10:20:51.324 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/GetUserProfileTestData.json"".
+[INFO ] 2023-08-02 10:20:51.325 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/GetUserProfileTestData.json"".
+[INFO ] 2023-08-02 10:20:51.327 [main] ReportManager - Successfully created attachment 'Test Data - JSON'
+[INFO ] 2023-08-02 10:20:51.332 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '7 out of 8' test cases in the current suite                                        
+                                         Test Method: 'tests.UserProfileTests.verifyGettingUserProfile'                                         
+                                           Test Description: 'Valid getting a registered user profile'                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[DEBUG] 2023-08-02 10:20:51.339 [main] BasicClientConnectionManager - Get connection for route {s}->https://thinking-tester-contact-list.herokuapp.com:443
+[DEBUG] 2023-08-02 10:20:51.339 [main] DefaultClientConnectionOperator - Connecting to thinking-tester-contact-list.herokuapp.com:443
+[DEBUG] 2023-08-02 10:20:51.914 [main] RequestAddCookies - CookieSpec selected: ignoreCookies
+[DEBUG] 2023-08-02 10:20:51.914 [main] RequestAuthCache - Auth cache not set in the context
+[DEBUG] 2023-08-02 10:20:51.914 [main] RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+[DEBUG] 2023-08-02 10:20:51.914 [main] DefaultClientConnection - Sending request: GET /users/me HTTP/1.1
+[DEBUG] 2023-08-02 10:20:51.915 [main] wire -  >> "GET /users/me HTTP/1.1[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.915 [main] wire -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.915 [main] wire -  >> "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMGM3OWIxYTAwMTNlMWY1MWUiLCJpYXQiOjE2OTA5NjUyMTZ9.FLjJorJ4SG80s4MsKJc9VDzcmio1W9RxhIFlSAnsyNs[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.915 [main] wire -  >> "Accept: */*[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.915 [main] wire -  >> "Host: thinking-tester-contact-list.herokuapp.com[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.915 [main] wire -  >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.915 [main] wire -  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/20)[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.915 [main] wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.915 [main] wire -  >> "[\r][\n]"
+[DEBUG] 2023-08-02 10:20:51.915 [main] headers - >> GET /users/me HTTP/1.1
+[DEBUG] 2023-08-02 10:20:51.915 [main] headers - >> Content-Type: application/json; charset=UTF-8
+[DEBUG] 2023-08-02 10:20:51.915 [main] headers - >> Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMGM3OWIxYTAwMTNlMWY1MWUiLCJpYXQiOjE2OTA5NjUyMTZ9.FLjJorJ4SG80s4MsKJc9VDzcmio1W9RxhIFlSAnsyNs
+[DEBUG] 2023-08-02 10:20:51.916 [main] headers - >> Accept: */*
+[DEBUG] 2023-08-02 10:20:51.916 [main] headers - >> Host: thinking-tester-contact-list.herokuapp.com
+[DEBUG] 2023-08-02 10:20:51.916 [main] headers - >> Connection: Keep-Alive
+[DEBUG] 2023-08-02 10:20:51.916 [main] headers - >> User-Agent: Apache-HttpClient/4.5.13 (Java/20)
+[DEBUG] 2023-08-02 10:20:51.916 [main] headers - >> Accept-Encoding: gzip,deflate
+[DEBUG] 2023-08-02 10:20:52.065 [main] wire -  << "HTTP/1.1 200 OK[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.066 [main] wire -  << "Server: Cowboy[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.066 [main] wire -  << "Connection: keep-alive[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.066 [main] wire -  << "X-Powered-By: Express[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.066 [main] wire -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.066 [main] wire -  << "Content-Length: 126[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.066 [main] wire -  << "Etag: W/"7e-aYtSDjGp07nmUAAAPpG9tb0ZvsY"[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.066 [main] wire -  << "Date: Wed, 02 Aug 2023 08:33:43 GMT[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.066 [main] wire -  << "Via: 1.1 vegur[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.066 [main] wire -  << "[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.066 [main] DefaultClientConnection - Receiving response: HTTP/1.1 200 OK
+[DEBUG] 2023-08-02 10:20:52.066 [main] headers - << HTTP/1.1 200 OK
+[DEBUG] 2023-08-02 10:20:52.066 [main] headers - << Server: Cowboy
+[DEBUG] 2023-08-02 10:20:52.066 [main] headers - << Connection: keep-alive
+[DEBUG] 2023-08-02 10:20:52.066 [main] headers - << X-Powered-By: Express
+[DEBUG] 2023-08-02 10:20:52.066 [main] headers - << Content-Type: application/json; charset=utf-8
+[DEBUG] 2023-08-02 10:20:52.066 [main] headers - << Content-Length: 126
+[DEBUG] 2023-08-02 10:20:52.066 [main] headers - << Etag: W/"7e-aYtSDjGp07nmUAAAPpG9tb0ZvsY"
+[DEBUG] 2023-08-02 10:20:52.067 [main] headers - << Date: Wed, 02 Aug 2023 08:33:43 GMT
+[DEBUG] 2023-08-02 10:20:52.067 [main] headers - << Via: 1.1 vegur
+[DEBUG] 2023-08-02 10:20:52.067 [main] RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+[DEBUG] 2023-08-02 10:20:52.067 [main] RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[INFO ] 2023-08-02 10:20:52.068 [main] ReportManager - Response status code: "200", status line: "HTTP/1.1 200 OK"
+[INFO ] 2023-08-02 10:20:52.069 [main] ReportManager - Assertion "ValidateComparativeRelation" PASSED. Expected "200" and Actual "200". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[DEBUG] 2023-08-02 10:20:52.069 [main] wire -  << "{"_id":"64ca14e0c79b1a0013e1f51e","firstName":"John","lastName":"Doe","email":"johndoe_02082023102040367@example.com","__v":2}"
+[DEBUG] 2023-08-02 10:20:52.069 [main] BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@997a59f
+[DEBUG] 2023-08-02 10:20:52.069 [main] BasicClientConnectionManager - Connection can be kept alive indefinitely
+[INFO ] 2023-08-02 10:20:52.081 [main] ReportManager - Successfully created attachment 'API Request - Specifications'
+[INFO ] 2023-08-02 10:20:52.083 [main] ReportManager - Successfully created attachment 'API Response - JSON Body'
+[INFO ] 2023-08-02 10:20:52.098 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: verifyGettingUserProfile'
+[INFO ] 2023-08-02 10:20:52.101 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '8 out of 8' test cases in the current suite                                        
+                                   Test Method: 'tests.UserProfileTests.verifyGettingUserProfileWithoutToken'                                   
+                                        Test Description: 'Invalid getting a non registered user profile'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[DEBUG] 2023-08-02 10:20:52.108 [main] BasicClientConnectionManager - Get connection for route {s}->https://thinking-tester-contact-list.herokuapp.com:443
+[DEBUG] 2023-08-02 10:20:52.108 [main] DefaultClientConnectionOperator - Connecting to thinking-tester-contact-list.herokuapp.com:443
+[DEBUG] 2023-08-02 10:20:52.692 [main] RequestAddCookies - CookieSpec selected: ignoreCookies
+[DEBUG] 2023-08-02 10:20:52.692 [main] RequestAuthCache - Auth cache not set in the context
+[DEBUG] 2023-08-02 10:20:52.692 [main] RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+[DEBUG] 2023-08-02 10:20:52.692 [main] DefaultClientConnection - Sending request: GET /users/me HTTP/1.1
+[DEBUG] 2023-08-02 10:20:52.692 [main] wire -  >> "GET /users/me HTTP/1.1[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.693 [main] wire -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.693 [main] wire -  >> "Authorization: Bearer null[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.693 [main] wire -  >> "Accept: */*[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.693 [main] wire -  >> "Host: thinking-tester-contact-list.herokuapp.com[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.693 [main] wire -  >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.693 [main] wire -  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/20)[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.693 [main] wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.693 [main] wire -  >> "[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.693 [main] headers - >> GET /users/me HTTP/1.1
+[DEBUG] 2023-08-02 10:20:52.693 [main] headers - >> Content-Type: application/json; charset=UTF-8
+[DEBUG] 2023-08-02 10:20:52.693 [main] headers - >> Authorization: Bearer null
+[DEBUG] 2023-08-02 10:20:52.693 [main] headers - >> Accept: */*
+[DEBUG] 2023-08-02 10:20:52.693 [main] headers - >> Host: thinking-tester-contact-list.herokuapp.com
+[DEBUG] 2023-08-02 10:20:52.693 [main] headers - >> Connection: Keep-Alive
+[DEBUG] 2023-08-02 10:20:52.693 [main] headers - >> User-Agent: Apache-HttpClient/4.5.13 (Java/20)
+[DEBUG] 2023-08-02 10:20:52.693 [main] headers - >> Accept-Encoding: gzip,deflate
+[DEBUG] 2023-08-02 10:20:52.842 [main] wire -  << "HTTP/1.1 401 Unauthorized[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.842 [main] wire -  << "Server: Cowboy[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.843 [main] wire -  << "Connection: keep-alive[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.843 [main] wire -  << "X-Powered-By: Express[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.843 [main] wire -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.843 [main] wire -  << "Content-Length: 32[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.843 [main] wire -  << "Etag: W/"20-l84Ae8oPqxLFOfh6GyOldXOyOfM"[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.843 [main] wire -  << "Date: Wed, 02 Aug 2023 08:33:44 GMT[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.843 [main] wire -  << "Via: 1.1 vegur[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.843 [main] wire -  << "[\r][\n]"
+[DEBUG] 2023-08-02 10:20:52.843 [main] DefaultClientConnection - Receiving response: HTTP/1.1 401 Unauthorized
+[DEBUG] 2023-08-02 10:20:52.843 [main] headers - << HTTP/1.1 401 Unauthorized
+[DEBUG] 2023-08-02 10:20:52.843 [main] headers - << Server: Cowboy
+[DEBUG] 2023-08-02 10:20:52.843 [main] headers - << Connection: keep-alive
+[DEBUG] 2023-08-02 10:20:52.843 [main] headers - << X-Powered-By: Express
+[DEBUG] 2023-08-02 10:20:52.843 [main] headers - << Content-Type: application/json; charset=utf-8
+[DEBUG] 2023-08-02 10:20:52.843 [main] headers - << Content-Length: 32
+[DEBUG] 2023-08-02 10:20:52.843 [main] headers - << Etag: W/"20-l84Ae8oPqxLFOfh6GyOldXOyOfM"
+[DEBUG] 2023-08-02 10:20:52.843 [main] headers - << Date: Wed, 02 Aug 2023 08:33:44 GMT
+[DEBUG] 2023-08-02 10:20:52.843 [main] headers - << Via: 1.1 vegur
+[DEBUG] 2023-08-02 10:20:52.844 [main] RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+[DEBUG] 2023-08-02 10:20:52.844 [main] RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[INFO ] 2023-08-02 10:20:52.846 [main] ReportManager - Response status code: "401", status line: "HTTP/1.1 401 Unauthorized"
+[INFO ] 2023-08-02 10:20:52.846 [main] ReportManager - Assertion "ValidateComparativeRelation" PASSED. Expected "401" and Actual "401". Comparison Type "EQUALS". Validation Type "POSITIVE".
+[DEBUG] 2023-08-02 10:20:52.847 [main] wire -  << "{"error":"Please authenticate."}"
+[DEBUG] 2023-08-02 10:20:52.847 [main] BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@5910aa2e
+[DEBUG] 2023-08-02 10:20:52.847 [main] BasicClientConnectionManager - Connection can be kept alive indefinitely
+[INFO ] 2023-08-02 10:20:52.858 [main] ReportManager - Successfully created attachment 'API Request - Specifications'
+[INFO ] 2023-08-02 10:20:52.860 [main] ReportManager - Successfully created attachment 'API Response - JSON Body'
+[INFO ] 2023-08-02 10:20:52.861 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/GetUserProfileTestData.json"".
+[INFO ] 2023-08-02 10:20:52.861 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/GetUserProfileTestData.json"".
+[INFO ] 2023-08-02 10:20:52.887 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: verifyGettingUserProfileWithoutToken'
+[INFO ] 2023-08-02 10:20:52.917 [main] ReportManager - 
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                           Starting execution of engine teardown configuration method                                           
+                                        'com.shaft.listeners.internal.ConfigurationHelper.engineTeardown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[INFO ] 2023-08-02 10:20:52.918 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'
+[INFO ] 2023-08-02 10:20:52.918 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/logs/log4j.log"".
+[INFO ] 2023-08-02 10:20:52.919 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "target/logs/log4j.log"".

@@ -1,0 +1,20 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '3 out of 8' test cases in the current suite                                        
+                                        Test Method: 'tests.LoginTests.VerifyLoginWithCorrectEmailAndPw'                                        
+                                         Test Description: 'Valid login with correct email and password'                                         
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[ReportManager] Response status code: "200", status line: "HTTP/1.1 200 OK" @02-08-2023 10:20:48.0628 AM
+[ReportManager] Assertion "ValidateComparativeRelation" PASSED. Expected "200" and Actual "200". Comparison Type "EQUALS". Validation Type "POSITIVE". @02-08-2023 10:20:48.0628 AM
+[ReportManager] Assertion Passed: Evaluating the actual response status code 200 against the expected one 200... @02-08-2023 10:20:48.0629 AM
+[ReportManager] Perform request "POST | Target Status Code: 200 | Service URL: https://thinking-tester-contact-list.herokuapp.com/users/login | Content Type: application/json | Response Time: 889ms". @02-08-2023 10:20:48.0641 AM
+[ReportManager] Successfully created attachment 'API Request - Specifications' @02-08-2023 10:20:48.0642 AM
+[ReportManager] Successfully created attachment 'API Request - JSON Body' @02-08-2023 10:20:48.0645 AM
+[ReportManager] Successfully created attachment 'API Response - JSON Body' @02-08-2023 10:20:48.0647 AM
+[ReportManager] Expected "johndoe_02082023102040367@example.com", and actual "johndoe_02082023102040367@example.com" @02-08-2023 10:20:48.0649 AM
+[ReportManager] Assertion "ValidateEquals" PASSED. Expected "johndoe_02082023102040367@example.com" and Actual "johndoe_02082023102040367@example.com". Comparison Type "EQUALS". Validation Type "POSITIVE". @02-08-2023 10:20:48.0650 AM
+[ReportManager] Assertion Passed: "johndoe_02082023102040367@example.com" is equal to "johndoe_02082023102040367@example.com". @02-08-2023 10:20:48.0650 AM
+[ReportManager] Expected "null", and actual "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMGM3OWIxYTAwMTNlMWY1MWUiLCJpYXQiOjE2OTA5NjUyMjB9.nNoN6FE0MOjp_vVIfN55G_Utxt6CRlKZUuHuf_SO-M4" @02-08-2023 10:20:48.0650 AM
+[ReportManager] Assertion "ValidateEquals" PASSED. Expected "null" and Actual "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMGM3OWIxYTAwMTNlMWY1MWUiLCJpYXQiOjE2OTA5NjUyMjB9.nNoN6FE0MOjp_vVIfN55G_Utxt6CRlKZUuHuf_SO-M4". Comparison Type "EQUALS". Validation Type "NEGATIVE". @02-08-2023 10:20:48.0651 AM
+[ReportManager] Assertion Passed: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGNhMTRlMGM3OWIxYTAwMTNlMWY1MWUiLCJpYXQiOjE2OTA5NjUyMjB9.nNoN6FE0MOjp_vVIfN55G_Utxt6CRlKZUuHuf_SO-M4" is not NULL. @02-08-2023 10:20:48.0651 AM
